@@ -46,14 +46,22 @@ Je recommande de commencer avec un dessin petit. Le plus gros l'illustration est
 ### Créer le contour
 Comme si tu dessinais sur une feuille.
 
+<img src="media/dessin1.png" alt="lesprite" width="400" height="400"/>
+
 ### Rendre le contour plus propre
 Chaque ligne doit avoir une épaisseur de 1 pixel et enlever les pixels errants.
+
+<img src="media/dessin2.png" alt="lesprite" width="400" height="400"/>
 
 ### Ajouter de la couleur
 Suivre une palette de couleur.
 
+<img src="media/dessin3.png" alt="lesprite" width="400" height="400"/>
+
 ## 4. Regarder des tutoriels
 Ce tutoriel ne contient pas tout ce qu'il faut savoir! Si tu veut avoir de la meilleure technique, trouve des tutoriels fait par des professionels!
+<br>
+[Collection de tutoriels](https://steamcommunity.com/sharedfiles/filedetails/?id=2068657182)
 
 ## 5. Pratiquer!
 Le plus on se pratique, le plus on est habile! Dessine des objets autour de toi si tu ne sait pas quoi faire!
