@@ -24,13 +24,13 @@ Puisque le pixel art est une forme d'art simple, tout ce qu'il faut est un zoom 
 >Le minimum, mais pourquoi?
 
 ### paint.net
-<img src="media/paintnet.png" alt="lesprite" width="420" height="350"/>
+<img src="media/paintnet.png" alt="lesprite" width="530" height="350"/>
 
 >Une alternative acceptable à Photoshop
 
 
 ### Photoshop
-<img src="media/photoshop.png" alt="photoshop" width="420" height="250"/>
+<img src="media/interface_photoshop.png" alt="photoshop" width="420" height="250"/>
 
 >Bon logiciel pour l'art en général, mais coûte cher
 
