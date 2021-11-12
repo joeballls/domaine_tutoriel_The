@@ -12,3 +12,26 @@ Le pixel art se démarque des autres formes d'art par le fait que, contrairement
 
 >Pas du pixel art!
 
+<img src="media/shadeprac4.png" alt="lesprite" width="250" height="260"/>
+
+## 2. Quel logiciel utiliser?
+
+Puisque le pixel art est une forme d'art simple, tout ce qu'il faut est un zoom et un outil crayon.
+
+### MS Paint
+
+>Le minimum, mais pourquoi?
+
+### paint.net
+
+>Une alternative acceptable à Photoshop
+
+
+### Photoshop
+
+>Bon logiciel pour l'art en général, mais coûte cher
+
+
+### Aseprite
+
+>Je promet que je ne suis pas payé par Aseprite
