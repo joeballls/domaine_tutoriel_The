@@ -1,2 +1,7 @@
-# domaine_tutoriel_The
-TUTORIEL!!
+# Les bases du Pixel Art 
+
+
+
+
+
+## 1. Choisir un programme pour dessiner
